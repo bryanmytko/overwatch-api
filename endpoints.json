@@ -1,0 +1,6 @@
+{
+  "base_url": "https://us.api.battle.net", // probably?
+  "methods": {
+    "name": { "resource": "/" },
+  }
+}
