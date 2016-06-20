@@ -1,0 +1,7 @@
+*.swp
+*.swo
+
+.env
+test/env-vars.js
+
+.DS_Store
