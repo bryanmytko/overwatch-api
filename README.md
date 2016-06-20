@@ -2,7 +2,7 @@
 
 *NOTE: This is currently just a placeholder and code skeleton since the Overwatch API has not yet been publicly exposed.*
 
-![logo](http://i.imgur.com/rKBtuIb.png)
+![logo](https://i.imgur.com/1A3twd8.png)
 
 ## Requirements
 
