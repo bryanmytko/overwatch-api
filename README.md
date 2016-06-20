@@ -2,7 +2,7 @@
 
 ![logo](http://i.imgur.com/uHMulGP.jpg)
 
-**NOTE: ** _This is currently just a placeholder and code skeleton since the Overwatch API has not yet been publicly exposed._
+__NOTE:__ _This is currently just a placeholder and code skeleton since the Overwatch API has not yet been publicly exposed._
 
 ## Requirements
 
