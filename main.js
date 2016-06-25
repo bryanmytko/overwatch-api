@@ -35,8 +35,9 @@ function api_method(endpoint, params, callback){
   params.locale = this.locale;
   params.access_token = this.access_token;
 
+  // @TODO Need to add actual param values here
   var endpoint = endpoint
-    .replace(':param_name', params.param_name)
+    .replace(':param_name', params.param_name);
 
   unirest.get(Endpoints.base_url + "/" + endpoint)
     .query(params)
